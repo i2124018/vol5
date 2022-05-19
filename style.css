@@ -1,0 +1,12 @@
+.large{
+    font-size:80px;
+    text-align: center;
+    border-bottom: 2px black solid;
+}
+
+.png1{
+    margin: auto;
+    max-width:640px;
+    display: block;
+    border: 1px gray solid;
+}
